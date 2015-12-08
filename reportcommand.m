@@ -1,0 +1,3 @@
+report43_1=report(data43_90_linear_time_smallsize);
+report43_2=report(data43_90_lineargoodcut_time_smallsize);
+report43_3=report(data43_90_linear_time_smallsize3);

@@ -1,0 +1,25 @@
+%%%%%plot command
+plot23 = run_plot('1005 pre-cleaned 2-3-15','linear','smooth',0.5);
+plot24 = run_plot('1005 pre-cleaned 2-4-15','linear','smooth',0.5);
+plot25 = run_plot('1005 pre-cleaned 2-5-15','linear','smooth',0.5);
+plot26 = run_plot('1005 pre-cleaned 2-6-15','linear','smooth',0.5);
+plot27 = run_plot('1005 pre-cleaned 2-7-15','linear','smooth',0.5);
+plot28 = run_plot('1005 pre-cleaned 2-8-15','linear','smooth',0.5);
+plot29 = run_plot('1005 pre-cleaned 2-9-15','linear','smooth',0.5);
+plot210 = run_plot('1005 pre-cleaned 2-10-15','linear','smooth',0.5);
+plot331 = run_plot('1005 pre-cleaned 3-31-15','linear','smooth',0.5);
+plot401 = run_plot('1005 pre-cleaned 4-01-15','linear','smooth',0.5);
+plot402 = run_plot('1005 pre-cleaned 4-02-15','linear','smooth',0.5);
+plot403 = run_plot('1005 pre-cleaned 4-03-15','linear','smooth',0.5);
+plot404 = run_plot('1005 pre-cleaned 4-04-15','linear','smooth',0.5);
+plot405 = run_plot('1005 pre-cleaned 4-05-15','linear','smooth',0.5);
+plot406 = run_plot('1005 pre-cleaned 4-06-15','linear','smooth',0.5);
+plot407 = run_plot('1005 pre-cleaned 4-07-15','linear','smooth',0.5);
+plot1211 = run_plot('1005 pre-cleaned 12-11-14','linear','smooth',0.5);
+plot1212 = run_plot('1005 pre-cleaned 12-12-14','linear','smooth',0.5);
+plot1213 = run_plot('1005 pre-cleaned 12-13-14','linear','smooth',0.5);
+plot1214 = run_plot('1005 pre-cleaned 12-14-14','linear','smooth',0.5);
+plot1215 = run_plot('1005 pre-cleaned 12-15-14','linear','smooth',0.5);
+plot1216 = run_plot('1005 pre-cleaned 12-16-14','linear','smooth',0.5);
+plot1217 = run_plot('1005 pre-cleaned 12-17-14','linear','smooth',0.5);
+plot1218 = run_plot('1005 pre-cleaned 12-18-14','linear','smooth',0.5);
